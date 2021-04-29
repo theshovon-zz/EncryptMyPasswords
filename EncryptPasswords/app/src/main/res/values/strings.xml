@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EncryptPasswords</string>
+    <string name="Heading">Password Encrypter</string>
+</resources>
